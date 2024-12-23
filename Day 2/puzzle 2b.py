@@ -80,7 +80,7 @@ print(safe_reports)
 #
 # safe_reports = 0
 #
-# with open("puzzle2 input.txt", "r") as f:
+# with open("puzzle2 puzzle 3 input.txt", "r") as f:
 #     for line in f:
 #         removal_counter = False
 #         report = [int(i) for i in line.split()]
